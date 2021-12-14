@@ -1,0 +1,3 @@
+Apesar de já ter tido contado com o linux antes, não sabia da diferença entre Kernel e Sistema Operacional.
+Foi interessante aprender que Linux é o kernel, e que há diversas distros baseadas para esse kernel.
+Também foi interessante aprender como instalar e usar uma máquina virtual.

@@ -1,0 +1,2 @@
+Apesar de ser complexo no começo, logo entendi a importância e utilidade do git para o desenvolvimento de projetos, principalmente colaborativos.
+Achei a ideia da 'linha do tempo' com os commits incrivel, possibilitando um controle de versão facil e transparente, registrando todos os detalhes das alterações.

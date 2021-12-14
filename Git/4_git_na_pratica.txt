@@ -1,0 +1,8 @@
+Nessa aula aprendi sobre como criar e maninpular um repositório local.
+Fiz as configurações iniciais no git bash e aprendi comandos importantes como:
+-git init
+-git status
+-git add
+
+E fiz meu primeiro commit com o git -commit
+Foi importante para solidificar o entendimento do fluxo 'working directory' -> 'staging area' -> 'repository'

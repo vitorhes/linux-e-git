@@ -1,0 +1,12 @@
+Achei interessante os comandos de navegação e edição de diretórios, como:
+-cd
+-mkdir
+-rm
+-mv
+
+Além da possibilidade de abrir e editar arquivos diretamente do terminal, com:
+-nano
+-echo
+-cat
+-touch
+

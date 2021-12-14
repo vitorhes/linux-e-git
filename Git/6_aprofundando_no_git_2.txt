@@ -1,0 +1,5 @@
+
+Nessa aula aprofundamos o aprendizado de branchs, aprendendo mais sobre merge e como resolver conflitos dos merges.
+Também aprendi a navegar pela 'linha do tempo' do commits, com o git checkout HEAD~1
+E também como reverter um commit, com o git reset HEAD~1
+

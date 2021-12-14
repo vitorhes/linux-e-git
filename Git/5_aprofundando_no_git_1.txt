@@ -1,0 +1,3 @@
+Essa aula foi focada em branch.
+Achei incrivel o conceito de 'mergear' branchs, e visualizar o que foi alterado, linha por linha. 
+Além de criar, também aprendi a trocar de contexto, com o -git checkout
